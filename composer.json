@@ -1,4 +1,5 @@
 {
-    "required": {
+    "require": {
+        "phonicavi/lpfc-router": "dev-master"
     }
 }
