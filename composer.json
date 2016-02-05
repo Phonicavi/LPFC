@@ -1,5 +1,12 @@
 {
     "require": {
         "phonicavi/lpfc-router": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+            "app/controllers",
+            "app/models",
+            "app/views"
+        ]
     }
 }

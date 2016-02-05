@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Phonicavi/LPFC-router.git",
-                "reference": "0813d08801c2aa5b3c6eacd1b2a402bc93c517cc"
+                "reference": "9275ef8e7386b38346669e53aac3714c56291c44"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Phonicavi/LPFC-router/zipball/0813d08801c2aa5b3c6eacd1b2a402bc93c517cc",
-                "reference": "0813d08801c2aa5b3c6eacd1b2a402bc93c517cc",
+                "url": "https://api.github.com/repos/Phonicavi/LPFC-router/zipball/9275ef8e7386b38346669e53aac3714c56291c44",
+                "reference": "9275ef8e7386b38346669e53aac3714c56291c44",
                 "shasum": ""
             },
             "require": {
@@ -41,7 +41,7 @@
                 }
             ],
             "description": "A simple router for LPFC",
-            "time": "2016-02-04 16:38:52"
+            "time": "2016-02-05 16:30:51"
         }
     ],
     "packages-dev": [],
