@@ -1,0 +1,40 @@
+[
+    {
+        "name": "phonicavi/lpfc-router",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Phonicavi/LPFC-router.git",
+            "reference": "9275ef8e7386b38346669e53aac3714c56291c44"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Phonicavi/LPFC-router/zipball/9275ef8e7386b38346669e53aac3714c56291c44",
+            "reference": "9275ef8e7386b38346669e53aac3714c56291c44",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.30"
+        },
+        "time": "2016-02-05 16:30:51",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "LPFCRouter\\Hermes\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Phonicavi",
+                "email": "mardpazin7san@hotmail.com"
+            }
+        ],
+        "description": "A simple router for LPFC"
+    }
+]
